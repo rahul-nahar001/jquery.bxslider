@@ -9,7 +9,6 @@ files[] = includes/bxslider_style_plugin.inc
 dependencies[] = views
 
 version = "7.x-2"
-core = "7.x"
 project = "bxslider"
 
 
